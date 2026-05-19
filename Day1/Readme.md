@@ -1,7 +1,7 @@
 ## CCNA-Zero-to-Hero-2026-Hindi Series - Day 1
 
 <p align="center">
-  <img src="./ChatGPT Image Jan 7, 2026, 10_35_44 PM.png" width="700">
+  <img src="./ChatGPT Image Jan 7, 2026, 10_35_44 PM.png" width="200">
 </p>
 
 <p align="center">
