@@ -93,7 +93,7 @@ are connected to the same WiFi router, that is called a LAN network.
 
 # 📊 LAN Diagram
 
-![LAN Diagram](../images/network/lan-diagram.png)
+![LAN Diagram](./lan.png)
 
 ---
 
@@ -165,7 +165,7 @@ Tower-to-tower wireless connectivity used by ISPs is also a WAN example.
 
 # 📊 WAN Diagram
 
-![WAN Diagram](../images/network/wan-diagram.png)
+![WAN Diagram](./WAN.jpg)
 
 ---
 
@@ -219,7 +219,7 @@ Mobile → WiFi Router → ISP → Internet → Server
 
 # 📊 Internet Diagram
 
-![Internet Diagram](../images/network/internet-diagram.png)
+![Internet Diagram](./internet.jpg)
 
 ---
 
@@ -294,49 +294,7 @@ This is how real telecom and ISP infrastructure works.
 
 ---
 
-# 🎬 YouTube Video Information
 
-## 📺 Title
-
-What is LAN, WAN & Internet? | CCNA Beginner Series Ep 1 | Hindi
-
----
-
-# 🏷️ Tags
-
-```text
-ccna
-ccna hindi
-networking basics
-what is lan
-what is wan
-what is internet
-lan wan internet explained
-ccna beginner
-network engineer
-networking tutorial
-ccna 200-301
-networking in hindi
-diplomawale
-telecom networking
-```
-
----
-
-# #️⃣ Hashtags
-
-```text
-#ccna
-#networking
-#lan
-#wan
-#internet
-#ccnainhindi
-#networkengineer
-#diplomawale
-```
-
----
 
 # 📂 GitHub Folder Structure
 
