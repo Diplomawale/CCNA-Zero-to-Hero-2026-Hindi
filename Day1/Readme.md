@@ -1,7 +1,7 @@
 ## CCNA-Zero-to-Hero-2026-Hindi Series - Day 1
 
 <p align="center">
-  <img src="https://github.com/Diplomawale/Diplomawale/blob/9608930bb645971483963896594b0038bdcf4778/ChatGPT%20Image%20Jan%207%2C%202026%2C%2011_44_11%20PM.png" width="700">
+  <img src="Day1/ChatGPT Image Jan 7, 2026, 10_35_44 PM.png" width="700">
 </p>
 
 <p align="center">
