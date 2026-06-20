@@ -250,6 +250,7 @@ https://www.youtube.com/playlist?list=PL6J2y6m6-GHH90lt49Pp2wGEErvQYpgh8
 # 📅 STUDY MATERIAL
 
 👉 OSI LAYER DETAILS
+![OSI](Day2/OSI_Architecture_Blueprint.pdf)
 
 ---
 
