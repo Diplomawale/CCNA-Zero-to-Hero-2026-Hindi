@@ -247,9 +247,9 @@ https://www.youtube.com/playlist?list=PL6J2y6m6-GHH90lt49Pp2wGEErvQYpgh8
 
 ---
 
-# 📅 Next Video
+# 📅 STUDY MATERIAL
 
-👉 TCP/IP Model Explained
+👉 OSI LAYER DETAILS
 
 ---
 
