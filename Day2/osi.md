@@ -244,7 +244,7 @@ https://www.youtube.com/playlist?list=PL6J2y6m6-GHH90lt49Pp2wGEErvQYpgh8
 
 # 📅 STUDY MATERIAL
 
-![OSI](/OSI_Architecture_Blueprint.pdf)
+(https://github.com/Diplomawale/CCNA-Zero-to-Hero-2026-Hindi/blob/d91555bb01b996e9e928e25e2d0d19e53d15e8f6/Day2/OSI_Architecture_Blueprint.pdf)
 
 ---
 
