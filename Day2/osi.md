@@ -1,6 +1,6 @@
 # 🌐 OSI Model Explained | CCNA ZERO TO HERO 2026 HINDI | Day 2
 
-![OSI Banner](images/osi-banner.png)
+![OSI Banner](https://github.com/Diplomawale/CCNA-Zero-to-Hero-2026-Hindi/blob/629e42704f31aad83e3df5709445045788ffa290/Day2/OSI%207%20LAYER.png)
 
 ## 🎥 Video
 
